@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(85, 107, 47, .5);
+    color: black;
+    align-items: center;
+
+}
